@@ -14,3 +14,6 @@ Comportamentos esperados:
 - Repodutor Musicial: tocar, pausar, selecionarMusica
 - Aparelho Telefônico: ligar, atender, iniciarCorrerioVoz
 - Navegador na Internet: exibirPagina, adicionarNovaAba, atualizarPagina
+
+Diagrama de classe;
+![image](https://github.com/JonasRF/DesafioPOO/assets/77034798/e0fbafe0-dbad-4570-a31c-0f024ec14ac1)
